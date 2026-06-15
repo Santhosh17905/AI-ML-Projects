@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Screenshots
+detections/
+
+# Cache
+.cache/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Python Environment Variables
+.env
+
+# Testing
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Model Files (Keep if needed)
+# MobileNetSSD_deploy.caffemodel
+# MobileNetSSD_deploy.prototxt

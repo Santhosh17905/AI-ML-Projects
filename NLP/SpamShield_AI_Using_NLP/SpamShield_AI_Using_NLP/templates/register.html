@@ -1,0 +1,43 @@
+<!-- Register template placeholder -->
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h2>Register</h2>
+
+<form method="POST">
+
+<input
+class="form-control mb-3"
+name="username"
+placeholder="Username"
+required>
+
+<input
+class="form-control mb-3"
+name="email"
+type="email"
+placeholder="Email"
+required>
+
+<input
+class="form-control mb-3"
+name="password"
+type="password"
+placeholder="Password"
+required>
+
+<button
+class="btn btn-success">
+
+Register
+
+</button>
+
+</form>
+
+<a href="/login">
+Already have account?
+</a>
+
+{% endblock %}

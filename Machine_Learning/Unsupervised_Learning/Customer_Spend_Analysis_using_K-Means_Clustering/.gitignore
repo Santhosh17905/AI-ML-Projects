@@ -1,0 +1,1 @@
+# Python __pycache__/ *.pyc *.pyo *.pyd # Jupyter Notebook .ipynb_checkpoints # Data files (optional) *.csv # Environment .env venv/ env/ # OS files .DS_Store Thumbs.db

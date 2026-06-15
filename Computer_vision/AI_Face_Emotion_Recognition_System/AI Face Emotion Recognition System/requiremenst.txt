@@ -1,0 +1,14 @@
+opencv-python
+numpy
+pandas
+tensorflow
+torch
+torchvision
+Pillow
+matplotlib
+tqdm
+fer
+facenet-pytorch
+ffmpeg-python
+moviepy
+requests

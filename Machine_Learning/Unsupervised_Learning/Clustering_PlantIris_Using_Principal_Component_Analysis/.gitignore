@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# Model files (optional)
+*.pkl
+*.joblib
+
+# Dataset files (optional)
+*.csv
+*.xlsx
+
+# Matplotlib cache
+.matplotlib/
+
+# Temporary files
+*.tmp
+*.temp

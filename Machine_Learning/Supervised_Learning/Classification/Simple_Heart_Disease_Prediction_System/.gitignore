@@ -1,0 +1,43 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model Cache
+*.h5
+*.keras
+
+# Environment Variables
+.env
+
+# Build Files
+dist/
+build/
+
+# Temporary Files
+temp/
+tmp/
+
+# Prediction Logs
+prediction_history.csv

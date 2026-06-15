@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Model files (too large for GitHub)
+model/*.h5
+model/*.keras
+
+# Dataset (very large files)
+dataset/
+
+# Logs
+logs/
+*.csv
+
+# Database
+database/
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

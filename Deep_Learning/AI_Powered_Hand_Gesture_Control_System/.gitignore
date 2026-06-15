@@ -1,0 +1,49 @@
+# Virtual Environment
+
+myenv/
+venv/
+.env
+
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+
+*.log
+
+# CSV Logs
+
+gesture_log.csv
+
+# Screenshots
+
+captures/
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Build
+
+build/
+dist/
+*.egg-info/
+
+# Temporary Files
+
+temp/
+tmp/

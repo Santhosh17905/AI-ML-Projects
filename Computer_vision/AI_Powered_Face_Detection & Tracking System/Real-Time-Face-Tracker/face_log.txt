@@ -1,0 +1,2 @@
+[2026-06-11 19:49:08] Face Detected
+[2026-06-11 19:49:18] Application Closed

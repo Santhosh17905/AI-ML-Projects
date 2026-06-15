@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Python environment
+.env
+*.egg-info/
+
+# Model files
+*.pkl

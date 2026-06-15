@@ -1,0 +1,73 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Build
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Model Files
+
+*.h5
+*.keras
+
+# Scaler Files
+
+*.npy
+
+# TensorBoard
+
+logs/
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Environment Variables
+
+.env
+
+# Cache
+
+.cache/
+.pytest_cache/
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# Misc
+
+*.bak
+*.swp

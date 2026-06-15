@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container">
+    <h2 class='container-heading'>SPAM DETECTOR</h2>
+    <div class='description'>
+        <p>Please type in the text box to check whether the message is a Spam or Not</p>
+    </div>
+</div>
+
+<div class="ml-container">
+    <form action="{{ url_for('predict') }}" method="POST">
+        <textarea class='message-box' name="message" rows="15" cols="75" placeholder="Enter Your Message Here... eg. Let's catch up tonight, You have a meeting scheduled for tomorrow, To join our premium memebership please enter code ALLYSON30 etc. "></textarea><br/>
+        <input type="submit" class="my-cta-button" value="Predict">
+    </form>
+</div>
+
+{% endblock %}

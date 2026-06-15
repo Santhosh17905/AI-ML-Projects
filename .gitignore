@@ -1,0 +1,153 @@
+*.h5
+*.pkl
+*.csv
+*.json
+*.ipynb_checkpoints
+__pycache__/
+Deep_Learning/Covid19_Detection_Using_CNN/model/covid_resnet50.h5
+*.h5
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# ==========================================
+# Jupyter Notebook
+# ==========================================
+.ipynb_checkpoints/
+
+# ==========================================
+# Environment Variables
+# ==========================================
+.env
+.env.*
+
+# ==========================================
+# IDE Files
+# ==========================================
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Spyder
+.spyproject/
+
+# ==========================================
+# Build / Distribution
+# ==========================================
+build/
+dist/
+*.egg-info/
+
+# ==========================================
+# Logs
+# ==========================================
+logs/
+*.log
+
+# ==========================================
+# Operating System Files
+# ==========================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# ==========================================
+# TensorFlow / PyTorch Checkpoints
+# ==========================================
+checkpoints/
+models/checkpoints/
+
+*.ckpt
+*.h5.tmp
+*.pth.tmp
+
+# ==========================================
+# Trained Models (Optional)
+# Uncomment if models are huge
+# ==========================================
+
+ *.h5
+ *.keras
+ *.pth
+ *.pt
+ *.pb
+
+# ==========================================
+# Dataset Files (Optional)
+# Uncomment if datasets are large
+# ==========================================
+
+datasets/
+data/
+train/
+test/
+
+# ==========================================
+# OpenCV Generated Files
+# ==========================================
+*.avi
+*.mp4
+*.mov
+
+# ==========================================
+# OCR Temporary Files
+# ==========================================
+temp/
+tmp/
+
+# ==========================================
+# PyQt5 Generated Files
+# ==========================================
+*.ui.py
+
+# ==========================================
+# Cache
+# ==========================================
+.cache/
+.pytest_cache/
+.mypy_cache/
+ppt/
+ppt
+# ==========================================
+# Coverage Reports
+# ==========================================
+htmlcov/
+.coverage
+.coverage.*
+
+# ==========================================
+# Misc
+# ==========================================
+*.bak
+*.swp
+*.swo
+*.ppt
+
+venv/
+env/
+myenv/
+.venv/
+__pycache__/
+*.pyc
+*.dll
+*.pt
+*.pth
+*.h5
+*.pkl
+.ipynb_checkpoints/

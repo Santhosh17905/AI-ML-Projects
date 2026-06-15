@@ -1,0 +1,80 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Dataset
+
+Dataset/
+
+# Models
+
+models/*.h5
+models/*.keras
+models/*.weights.h5
+
+# Plots
+
+plots/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# TensorFlow
+
+checkpoint
+events.out.tfevents.*
+
+# Cache
+
+.cache/
+
+# Environment Variables
+
+.env
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# Testing
+
+.pytest_cache/
