@@ -1,4 +1,4 @@
-# 🧠 Day 11 - Diabetes Prediction Using Deep Neural Networks
+# 🧠  Diabetes Prediction Using Deep Neural Networks
 
 ## 📌 Project Overview
 
